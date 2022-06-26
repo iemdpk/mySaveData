@@ -1,0 +1,15 @@
+    //     var result           = '';
+    //     var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    //     var charactersLength = characters.length;
+    //      for ( var i = 0; i < 40; i++ ) {
+    //       result += characters.charAt(Math.floor(Math.random() * 
+    //  charactersLength));
+    //    }
+    //    await console.log("Paren;t Address : " + "0x" + result);
+    //    await setParrentAddress("0x"+result);
+    //   setParrentAddress("0x"+result);
+        
+    //   alert(generate());
+
+    //   console.log("child Address : " + "0x" + result);
+    //   await setChildAddress(result);
